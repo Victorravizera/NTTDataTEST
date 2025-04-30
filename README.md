@@ -3,6 +3,8 @@ bash
 
 npm install cypress --save-dev
 
+
+
 2. Execução
 Modo GUI (interativo):
 
@@ -12,6 +14,8 @@ Modo CLI (headless):
 
 bash
 npx cypress run
+
+
 
 3. Comandos Úteis
 Teste específico:
