@@ -2,6 +2,7 @@
 bash
 
 npm install cypress --save-dev
+
 2. Execução
 Modo GUI (interativo):
 
