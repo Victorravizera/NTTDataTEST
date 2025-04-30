@@ -17,3 +17,4 @@
 import './login.commands'
 import './users.commands'
 import './products.commands'
+import './front.commands'
